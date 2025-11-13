@@ -594,25 +594,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-### 💡 *"Innovation distinguishes between a leader and a follower."*
-
-</div>
-
----
-
-<div align="center">
-
-## 📜 License
-
-This organization and its projects are licensed under the **MIT License**
-
-</div>
-
----
 
 <div align="center">
 
@@ -620,18 +601,9 @@ This organization and its projects are licensed under the **MIT License**
 
 <br>
 
-**Built with ❤️ by the Braintisa Team**
-
-<br>
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbraintisa&label=Visitors&countColor=%23FEC203&style=for-the-badge&labelStyle=upper)
-
-<br>
-
 **© 2025 Braintisa. All rights reserved.**
 
 <br>
 
-⭐ **Star us on GitHub — it motivates us a lot!** ⭐
 
 </div>
