@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Repositories-100+-FEC203?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
@@ -86,9 +86,9 @@
 
 </div>
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <br>
       <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80px" alt="Software Development"/>
       <br><br>
@@ -96,7 +96,7 @@
       <p><i>Building robust and scalable applications using modern technologies and best practices</i></p>
       <br>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <br>
       <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80px" alt="AI & ML"/>
       <br><br>
@@ -104,7 +104,7 @@
       <p><i>Leveraging artificial intelligence to create intelligent solutions for complex problems</i></p>
       <br>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <br>
       <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80px" alt="Web Solutions"/>
       <br><br>
@@ -114,7 +114,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <br>
       <img src="https://img.icons8.com/fluency/96/000000/smartphone-tablet.png" width="80px" alt="Mobile Apps"/>
       <br><br>
@@ -122,7 +122,7 @@
       <p><i>Developing innovative mobile apps for iOS and Android platforms</i></p>
       <br>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <br>
       <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="80px" alt="Cloud Services"/>
       <br><br>
@@ -130,7 +130,7 @@
       <p><i>Implementing cloud-native solutions for maximum scalability</i></p>
       <br>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33.33%">
       <br>
       <img src="https://img.icons8.com/fluency/96/000000/security-shield-green.png" width="80px" alt="Security"/>
       <br><br>
@@ -213,189 +213,13 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60px" alt="Project Alpha"/>
-      <br><br>
-      <h3>🎯 Project Alpha</h3>
-      <p><i>AI-powered analytics platform for business intelligence</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge" alt="Status"/>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/shopping-cart.png" width="60px" alt="Project Beta"/>
-      <br><br>
-      <h3>🌐 Project Beta</h3>
-      <p><i>Cloud-native e-commerce solution with microservices</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Status-Active_Development-blue?style=for-the-badge" alt="Status"/>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/smartphone.png" width="60px" alt="Project Gamma"/>
-      <br><br>
-      <h3>📱 Project Gamma</h3>
-      <p><i>Cross-platform mobile app with real-time features</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Status-Launched-success?style=for-the-badge" alt="Status"/>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60px" alt="Project Delta"/>
-      <br><br>
-      <h3>🤖 Project Delta</h3>
-      <p><i>Machine learning pipeline for predictive analytics</i></p>
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge" alt="Status"/>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/💡_View_All-Browse_Our_Repositories-FEC203?style=for-the-badge&labelColor=1a1a1a&logo=github" alt="View All"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Contributing
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/code-fork.png" width="60px" alt="Fork"/>
-      <br><br>
-      <h3>1️⃣ Fork</h3>
-      <p><sub>Fork the repository to your account</sub></p>
-      <br>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/code-branch.png" width="60px" alt="Branch"/>
-      <br><br>
-      <h3>2️⃣ Branch</h3>
-      <p><sub>Create a feature branch</sub></p>
-      <br>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="60px" alt="Code"/>
-      <br><br>
-      <h3>3️⃣ Code</h3>
-      <p><sub>Write clean, tested code</sub></p>
-      <br>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/commit-git.png" width="60px" alt="Commit"/>
-      <br><br>
-      <h3>4️⃣ Commit</h3>
-      <p><sub>Use conventional commits</sub></p>
-      <br>
-    </td>
-    <td align="center" width="20%">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/000000/pull-request.png" width="60px" alt="PR"/>
-      <br><br>
-      <h3>5️⃣ PR</h3>
-      <p><sub>Submit pull request</sub></p>
-      <br>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/📖-Code_of_Conduct-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Code of Conduct"/>
-      <br><br>
-      <sub>Follow our community guidelines</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/✅-Coding_Standards-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Coding Standards"/>
-      <br><br>
-      <sub>Maintain code quality</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🧪-Testing_Required-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Testing"/>
-      <br><br>
-      <sub>Write comprehensive tests</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💬 Need Help?
-
-<img src="https://img.shields.io/badge/💭_Questions%3F-Ask_on_Discussions-FEC203?style=for-the-badge&labelColor=1a1a1a&logo=github" alt="Discussions"/>
-<img src="https://img.shields.io/badge/🐛_Found_a_Bug%3F-Report_an_Issue-FEC203?style=for-the-badge&labelColor=1a1a1a&logo=github" alt="Issues"/>
-<img src="https://img.shields.io/badge/💡_Have_an_Idea%3F-Start_a_Discussion-FEC203?style=for-the-badge&labelColor=1a1a1a&logo=github" alt="Ideas"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Development Metrics
 
 </div>
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Code_Quality-A+-FEC203?style=for-the-badge&logo=codacy&logoColor=white" alt="Code Quality"/>
@@ -430,11 +254,17 @@
 
 </div>
 
+---
+
 <div align="center">
 
-### 🏆 Our Achievements
+## 🏆 Our Achievements
 
-<table>
+</div>
+
+<div align="center">
+
+<table width="100%">
   <tr>
     <td align="center" width="16.66%">
       <img src="https://img.shields.io/badge/⭐-500+-FEC203?style=flat-square&labelColor=1a1a1a" height="40"/>
@@ -472,6 +302,267 @@
 <br>
 
 <img src="https://img.shields.io/badge/🎯_Mission-Building_Tomorrow's_Technology_Today-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Mission"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3>📈 Organization Overview</h3>
+      <br>
+      <table width="100%">
+        <tr>
+          <td>⭐ <b>Total Stars Earned:</b></td>
+          <td align="right"><b>500+</b></td>
+        </tr>
+        <tr>
+          <td>💻 <b>Total Commits:</b></td>
+          <td align="right"><b>10,000+</b></td>
+        </tr>
+        <tr>
+          <td>🔀 <b>Total PRs:</b></td>
+          <td align="right"><b>5,000+</b></td>
+        </tr>
+        <tr>
+          <td>📝 <b>Total Issues:</b></td>
+          <td align="right"><b>2,500+</b></td>
+        </tr>
+        <tr>
+          <td>📦 <b>Repositories:</b></td>
+          <td align="right"><b>100+</b></td>
+        </tr>
+      </table>
+      <br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3>🎨 Most Used Languages</h3>
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript-32.20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-24.26%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-20.03%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Java-15.12%25-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Go-8.39%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+      <br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Activity
+
+</div>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33.33%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60px" alt="Contributions"/>
+      <br><br>
+      <h2 style="color: #FEC203;">2,500</h2>
+      <p><b>Total Contributions</b></p>
+      <sub>Apr 5, 2024 - Present</sub>
+      <br><br>
+    </td>
+    <td align="center" width="33.33%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="60px" alt="Streak"/>
+      <br><br>
+      <h2 style="color: #FEC203;">45</h2>
+      <p><b>Current Streak</b></p>
+      <sub>Nov 13, 2025</sub>
+      <br><br>
+    </td>
+    <td align="center" width="33.33%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="60px" alt="Longest Streak"/>
+      <br><br>
+      <h2 style="color: #FEC203;">180</h2>
+      <p><b>Longest Streak</b></p>
+      <sub>Best Record</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📅 Weekly Activity Breakdown
+
+<table width="100%">
+  <tr>
+    <td align="center" width="14.28%">
+      <b>Monday</b><br><br>
+      <img src="https://img.shields.io/badge/●●●●●-25-FEC203?style=flat-square&labelColor=1a1a1a" alt="Mon"/>
+      <br><sub>Commits</sub>
+    </td>
+    <td align="center" width="14.28%">
+      <b>Tuesday</b><br><br>
+      <img src="https://img.shields.io/badge/●●●●○-18-FEC203?style=flat-square&labelColor=1a1a1a" alt="Tue"/>
+      <br><sub>Commits</sub>
+    </td>
+    <td align="center" width="14.28%">
+      <b>Wednesday</b><br><br>
+      <img src="https://img.shields.io/badge/●●●●●-32-FEC203?style=flat-square&labelColor=1a1a1a" alt="Wed"/>
+      <br><sub>Commits</sub>
+    </td>
+    <td align="center" width="14.28%">
+      <b>Thursday</b><br><br>
+      <img src="https://img.shields.io/badge/●●●○○-15-FEC203?style=flat-square&labelColor=1a1a1a" alt="Thu"/>
+      <br><sub>Commits</sub>
+    </td>
+    <td align="center" width="14.28%">
+      <b>Friday</b><br><br>
+      <img src="https://img.shields.io/badge/●●●●○-20-FEC203?style=flat-square&labelColor=1a1a1a" alt="Fri"/>
+      <br><sub>Commits</sub>
+    </td>
+    <td align="center" width="14.28%">
+      <b>Saturday</b><br><br>
+      <img src="https://img.shields.io/badge/●●○○○-10-FEC203?style=flat-square&labelColor=1a1a1a" alt="Sat"/>
+      <br><sub>Commits</sub>
+    </td>
+    <td align="center" width="14.28%">
+      <b>Sunday</b><br><br>
+      <img src="https://img.shields.io/badge/●●●○○-12-FEC203?style=flat-square&labelColor=1a1a1a" alt="Sun"/>
+      <br><sub>Commits</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/commit-git.png" width="70px" alt="Commits"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-Middle_Committer-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Commits</h3>
+      <p><sub><b>10,000+ commits</b></sub></p>
+      <br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/star.png" width="70px" alt="Stars"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-First_Star-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Stars</h3>
+      <p><sub><b>500+ stars earned</b></sub></p>
+      <br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/user-group-man-man.png" width="70px" alt="Followers"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-First_Friend-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Followers</h3>
+      <p><sub><b>50+ followers</b></sub></p>
+      <br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/pull-request.png" width="70px" alt="Pull Requests"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-First_Pull-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Pull Requests</h3>
+      <p><sub><b>5,000+ PRs merged</b></sub></p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/repository.png" width="70px" alt="Repositories"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-First_Repository-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Repositories</h3>
+      <p><sub><b>100+ repositories</b></sub></p>
+      <br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/medal.png" width="70px" alt="Experience"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-Veteran-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Experience</h3>
+      <p><sub><b>5+ years active</b></sub></p>
+      <br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/bug.png" width="70px" alt="Issues"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-Issue_Hunter-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Issues</h3>
+      <p><sub><b>2,500+ issues resolved</b></sub></p>
+      <br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.icons8.com/fluency/96/000000/code-review.png" width="70px" alt="Reviews"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/🥇-Code_Reviewer-FEC203?style=for-the-badge&labelColor=1a1a1a" alt="Badge"/>
+      <br><br>
+      <h3>Reviews</h3>
+      <p><sub><b>3,000+ reviews done</b></sub></p>
+      <br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎯_Achievement_Level-Master_Contributor-FEC203?style=for-the-badge&labelColor=1a1a1a&logo=github" alt="Achievement Level"/>
 
 </div>
 
@@ -529,7 +620,7 @@ This organization and its projects are licensed under the **MIT License**
 
 <br>
 
-**Built with the Braintisa Team**
+**Built with ❤️ by the Braintisa Team**
 
 <br>
 
